@@ -28,8 +28,80 @@
 <a href="" title="Postman"><img src="https://img.shields.io/badge/Posrman-ED8B00?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 </p>
 
+### My Works
 
+<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/2ba18dfc-c54a-4c1d-a7f4-a5205423471c" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
+### Ta3lim-es
+Ta3lim-es is an educational project, play videos, show PDF, live streaming, comment on video with text and voice, real time notifications,
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.salim.ta3limes" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+
+<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/78d0b50c-3afb-44e0-9bf9-7aec2f0a5a4d" alt="Talab-Driver" style="height: 440px; width:230px;" />
+
+### Talab-Driver
+Talab-Driver ia an e-commerce application for Drivers, fast orders, google map tracking, real time chat, real time notifications, online payment<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=net.moltaqa.talab_driver" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+  
+<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/e0b62949-3301-4613-8120-bf70b8f2e0f1" alt="Talab-Driver" style="height: 440px; width:230px;" />
+
+### Talab-Client
+Talab-Client ia an e-commerce application for end users, online store, fast orders, google map tracking, real time chat, real time notifications, online payment
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVI architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=net.moltaqa.talab_client" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+
+<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/b28e751b-1b02-4784-871f-9195ccb9a856" alt="Talab-Driver" style="height: 440px; width:230px;" />
+
+  ### Siyankom
+This application to A comprehensive solution for accurate and professional home maintenance, connecting users with skilled technicians in electricity, air conditioning, and plumbing.
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVVM architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.moltaqaa.siyankom.android" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+  
 ## 📊 MY Github Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
