@@ -51,7 +51,7 @@ Ta3lim-es is an educational project, play videos, show PDF, live streaming, comm
 <img align="right" src="https://github.com/user-attachments/assets/b707318b-7d47-4fcc-80a0-3fb8518fd6e2" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
 ### Farhety
-Farhety ia an sevices application for Services End-Users, order tracking, real time chat, real time notifications<br />
+Farhety ia an sevices application for End-Users, order tracking, real time chat, real time notifications<br />
 
 #### Developed with
 - Kotlin
