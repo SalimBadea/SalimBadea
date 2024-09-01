@@ -66,7 +66,7 @@ Farhety-Provider ia an sevices application for Services Providers, order trackin
 <p></a> <a href="https://play.google.com/store/apps/details?id=com.aait.farhety_provider" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
 <hr>
   
-<img align="right" src="https://github.com/user-attachments/assets/d83aa8bb-358c-4d24-886d-9b7616a50741" alt="Farhety-Provider" style="height: 440px; width:230px;" />
+<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/e0b62949-3301-4613-8120-bf70b8f2e0f1" alt="Farhety-Provider" style="height: 440px; width:230px;" />
 
 ### Talab-Driver
 Talab-Driver ia an e-commerce application for Drivers, fast orders, google map tracking, real time chat, real time notifications, online payment<br />
@@ -84,7 +84,7 @@ Talab-Driver ia an e-commerce application for Drivers, fast orders, google map t
 <p></a> <a href="https://play.google.com/store/apps/details?id=net.moltaqa.talab_driver" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
 <hr>
   
-<img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/e0b62949-3301-4613-8120-bf70b8f2e0f1" alt="Talab-Driver" style="height: 440px; width:230px;" />
+<img align="right" src="https://github.com/user-attachments/assets/d83aa8bb-358c-4d24-886d-9b7616a50741" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
 ### Talab-Client
 Talab-Client ia an e-commerce application for end users, online store, fast orders, google map tracking, real time chat, real time notifications, online payment
