@@ -47,7 +47,25 @@ Ta3lim-es is an educational project, play videos, show PDF, live streaming, comm
 
 <p></a> <a href="https://play.google.com/store/apps/details?id=com.salim.ta3limes" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
 <hr>
+  
+<img align="right" src="https://github.com/user-attachments/assets/b707318b-7d47-4fcc-80a0-3fb8518fd6e2" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
+### Farhety
+Farhety ia an sevices application for Services End-Users, order tracking, real time chat, real time notifications<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVVM architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.aait.farhety" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+  
 <img align="right" src="https://github.com/user-attachments/assets/d83aa8bb-358c-4d24-886d-9b7616a50741" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
 ### Farhety-Provider
