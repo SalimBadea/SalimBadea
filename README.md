@@ -50,6 +50,24 @@ Ta3lim-es is an educational project, play videos, show PDF, live streaming, comm
 
 <img align="right" src="https://github.com/SalimBadea/androidTask/assets/37668158/78d0b50c-3afb-44e0-9bf9-7aec2f0a5a4d" alt="Talab-Driver" style="height: 440px; width:230px;" />
 
+### Farhety-Provider
+Farhety-Provider ia an sevices application for Services Providers, order tracking, real time chat, real time notifications<br />
+
+#### Developed with
+- Kotlin
+- Hilt 
+- MVVM architecture
+- Coroutines
+- Clean architecture
+- Retrofit
+- Repository pattern
+- Android architecture components
+
+<p></a> <a href="https://play.google.com/store/apps/details?id=com.aait.farhety_provider" target="_blank"><img alt="Repository" src="https://reefcentral.pt/wp-content/uploads/2019/04/get-on-google-play.png" style="height: 65px; width:160px;"/> </a><p>
+<hr>
+  
+<img align="right" src="https://github.com/user-attachments/assets/d83aa8bb-358c-4d24-886d-9b7616a50741" alt="Farhety-Provider" style="height: 440px; width:230px;" />
+
 ### Talab-Driver
 Talab-Driver ia an e-commerce application for Drivers, fast orders, google map tracking, real time chat, real time notifications, online payment<br />
 
